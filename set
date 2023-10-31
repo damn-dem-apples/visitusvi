@@ -1,9 +1,8 @@
 <!DOCTYPE html>
 <html>
 
-<head> 
-St Thomas Information
-</head>
+<h1> St Thomas Information </h1>
+
 
 <body>
 
@@ -21,14 +20,13 @@ most cars are imported from the mainland United States, and therefore the steeri
 <p2> St. Thomas-St. John School District operates public schools on Saint Thomas.<p2>
 <p> Private schools: </p>
 
-<p>Visit <a href=https://www.antilles.vi> Antilles School</a> for more information.</p>
-<p>Visit <a href=http://www.vimsia.org/home> Virgin Islands Montessori School & Peter Gruber International Academy
-</a> for more information.</p>
+<p><a href=https://www.antilles.vi> Antilles School</a></p>
+
+<a href=http://www.vimsia.org/home> Virgin Islands Montessori School & Peter Gruber International Academy </a> 
 
 <h2> Colleges and universities: <h2>
 
-<p>Visit <a href=https://www.uvi.edu/index.html”> University of the Virgin Islands
-</a> for more information.</p>
+ <a href=https://www.uvi.edu/index.html”> University of the Virgin Islands </a> 
 
 </body>
 
