@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>St. Thomas Information</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <section>
+        <h2>Location and Transportation</h2>
+        <p>The island is serviced by the Cyril E. King International Airport and the Charlotte Amalie Harbor Seaplane Base.</p>
+        <p>Passenger and limited car-ferry services to neighboring islands such as Water Island, Saint John, Saint Croix, and the British Virgin Islands run regularly out of the Red Hook Terminal, Charlotte Amalie, and Crown Bay Marina.</p>
+        <p>The United States Virgin Islands is the only place under United States jurisdiction where the rule of the road is to drive on the left. This was inherited from what was the then-current Danish practice at the time of the American acquisition in 1917. However, because the islands are a U.S. territory, most cars are imported from the mainland United States, and therefore the steering column is located on the left side of the vehicle.</p>
+    </section>
+
+</body>
+
+</html>
